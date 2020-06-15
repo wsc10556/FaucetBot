@@ -1,0 +1,2 @@
+# FaucetBot
+Freebitco.in autobot
